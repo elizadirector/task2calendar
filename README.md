@@ -1,4 +1,4 @@
-# todotask2calendar
+# task2calendar
 
 This is a project which make users create to-do with a table formate and review tasks in calendar view.
 
