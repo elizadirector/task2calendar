@@ -1,6 +1,6 @@
 # todotask2calendar
 
-This is a project which can make users create to-do with a table formate and review tasks in calendar view.
+This is a project which make users create to-do with a table formate and review tasks in calendar view.
 
 Ver.0 2021.08.22 Initial
 
